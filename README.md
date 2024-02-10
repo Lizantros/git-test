@@ -1,2 +1,2 @@
 Hello
-This a test for Odin Project 
+This repo is used for my Odin Courses
